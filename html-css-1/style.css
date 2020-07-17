@@ -7,7 +7,7 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    width:100%;
+    width: 100%;
     height: 10vh;
     background-color: gray;
 }
@@ -16,7 +16,7 @@ header > h3{
     font-size: 40px;
     float: left;
     color: white;
-    padding:10px  30px;
+    padding: 10px 30px;
     font-family: sans-serif;
 }
   
@@ -24,7 +24,7 @@ header > ul{
     position: relative;
     text-align: end;
     font-size: 20px;
-    padding: 30px 50px 0 0;
+    padding: 30px 50px;
 }
   
 header > ul > a{
@@ -56,7 +56,7 @@ section > div:nth-child(1) > h1{
 }
   
 section > div:nth-child(2){
-    display:flex;
+    display: flex;
     justify-content: space-around;
     align-items: center;
     height: 25%;
@@ -67,30 +67,30 @@ section > div:nth-child(2){
 .boxes1{
     height: 65%;
     width: 10%;
-    background-color: rgb(187, 238, 187);
+    background-color: mediumaquamarine;
     border-radius: 10%;
 }
   
 section > div:nth-child(3){
-    display:flex;
+    display: flex;
     justify-content: space-around;
     align-items: center;
-    height: 25%;
+    height: 30%;
     width: 100%;
     background-color: white;
 }
   
 .boxes2{
     height: 100%;
-    width: 45%;
+    width: 50%;
     background-color: orange;
 }
   
 section > div:nth-child(4){
-    display:flex;
+    display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 25%;
+    height: 30%;
     width: 100%;
     background-color: white;
 }
@@ -99,7 +99,7 @@ p{
     border: border-box;
     height: 90%;
     width: 40%;
-    padding-left:40px;
+    padding-left: 40px;
 }
   
 img{
@@ -107,13 +107,13 @@ img{
     margin-left: auto;
     margin-right: auto;
     width: 20%;
-    height: 80%;
+    height: 75%;
 }
   
 footer{
     display: flex;
     align-items: flex-end;
-    width:100%;
+    width: 100%;
     height: 10vh;
-    background-color: rgb(40, 54, 99);
+    background-color: darkblue;
 }
