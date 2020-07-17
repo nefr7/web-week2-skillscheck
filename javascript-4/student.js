@@ -66,3 +66,4 @@ function redactInfo(obj){
     }
     redacted();
 }
+
